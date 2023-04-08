@@ -3,7 +3,7 @@ problem link: https://leetcode.com/problems/climbing-stairs/
 
                                                            solution
  ----------------------------------------------------------------------------------------------------------------------------------------
- class Solution {
+class Solution {
 public:
 
     int totalSteps(int stairIndex,vector<int>&DP) {
