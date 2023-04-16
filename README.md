@@ -6,3 +6,4 @@ platforms included:
 2. Geeksforgeeks
 3. Leetcode
 4. Code Studio/ coding ninjas
+5. Spoj
